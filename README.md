@@ -1,2 +1,2 @@
 # RESTF
-A java RESTful frame for fun
+A java RESTful frame just for fun
